@@ -1,0 +1,10 @@
+# Ignore node_modules and package-lock.json
+node_modules/
+package-lock.json
+
+# Ignore VSCode settings and coverage reports
+.vscode/
+
+# Ignore coverage reports
+coverage/
+test-report.html
